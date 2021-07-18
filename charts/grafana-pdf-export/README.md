@@ -76,6 +76,7 @@ $ kubectl cp -n monitoring grafana-pdf-test-grafana-pdf-exporter-65475db8ff-wpgj
 ```
 
 Note that for very tall dashboards this will not export the whole dashboard but only what can be displayed in a normal Chrome window.
+
 TODO: enable support for taller dashboards export
 
 ## CronJob Mode
